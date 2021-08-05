@@ -78,3 +78,23 @@ footer ul {
     margin: 25px;
 }
 
+button {
+    -webkit-appearance: none;
+    appearance: none;
+    position: absolute;
+    top: 300px;
+
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(245, 245, 245, 1);
+    height: 40px;
+    width: 130px;
+}
+
+#googleSearch {
+    left: 500px;
+}
+
+#lucky {
+    right: 500px;
+}
